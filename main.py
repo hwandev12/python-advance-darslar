@@ -19,6 +19,4 @@ num1 = Number(10, 10)
 num2 = Number(20, 60)
 num3 = Number(30, 30)
 
-hello
-
 print(num1 + num2 + num3)
